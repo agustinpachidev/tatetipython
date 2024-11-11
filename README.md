@@ -6,22 +6,22 @@ Para cada equipo se debe generar una estructura que sirva para
 mantener el puntaje obtenido por cada jugador en las jugadas.
 
 De los equipos:<b>
-● Id Jugador: número entero de 3 cifras
-● Nombre o Apodo del Jugador: no debe ser vacío
-● Puntaje Total: número entero mayor o igual a 0
-De las jugadas:
-● Nro de Partida: número entero mayor a 0
-● Id del Jugador 1: no debe ser vacío
-● Id del Jugador 2: no debe ser vacío
-● Ganador: no debe ser vacío
-● Cantidad de movimientos: número entero mayor a 0
+● Id Jugador: número entero de 3 cifras<br>
+● Nombre o Apodo del Jugador: no debe ser vacío<br>
+● Puntaje Total: número entero mayor o igual a 0<br>
+De las jugadas:<br>
+● Nro de Partida: número entero mayor a 0<br>
+● Id del Jugador 1: no debe ser vacío<br>
+● Id del Jugador 2: no debe ser vacío<br>
+● Ganador: no debe ser vacío<br>
+● Cantidad de movimientos: número entero mayor a 0<br>
 
 Reglas del Juego
 1. Juegan 2 equipos (equipo Cruz y equipo Círculo) de entre 2 y 10 integrantes
-cada uno. Los equipos deben tener la misma cantidad de integrantes.
+cada uno. Los equipos deben tener la misma cantidad de integrantes.<br>
 2. Una vez definidos los equipos, se determina aleatoriamente el enfrentamiento
-entre todos los miembros de los equipos.
-3. Se tira un dado para ver qué equipo comienza.
+entre todos los miembros de los equipos.<br>
+3. Se tira un dado para ver qué equipo comienza.<br>
    
 Partida
 1. Se presenta el tablero que consiste en un cuadro de 3x3 vacío.
