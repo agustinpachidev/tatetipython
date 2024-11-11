@@ -1,4 +1,4 @@
-# Proyecto TATETI
+# 🕹️​👾​ <b>Juego TATETI</b> 🕹️​👾​
 Descripción del Juego TA-TE-TI en equipos
 El juego comienza cargando los nombres de los jugadores de 2
 equipos.
