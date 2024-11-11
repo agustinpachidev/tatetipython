@@ -36,3 +36,11 @@ veces seguidas, cada jugador se lleva un punto.
 <br>Ganador</br>
 1. Una vez que se enfrentaron todos los jugadores, el equipo que más puntos tiene,
 se proclama Ganador.
+<br> Informe Ganador </br>
+Luego de que termine la partida en el menu principal se puede consultar los puntajes:
+| Jugadas       | Equipo Cruz | Equipo Círculo |
+|---------------|-------------|----------------|
+| Juan          | 3           | 4              |
+| María         | 1           | 1              |
+| Total:        | 4           | 5              |
+| Ganador:      |             | Equipo Círculo |
