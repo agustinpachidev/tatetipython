@@ -1,9 +1,9 @@
 # Proyecto TATETI
 Descripción del Juego TA-TE-TI en equipos
 El juego comienza cargando los nombres de los jugadores de 2
-equipos.Luego se lanza un dado para determinar si el equipo <b>CRUZ</b> o el equipo <b>CIRCULO</b> empieza la partida.
-Para cada equipo se debe generar una estructura que sirva para
-mantener el puntaje obtenido por cada jugador en las jugadas.
+equipos.
+Luego se lanza un dado para determinar si el equipo <b>CRUZ</b> o el equipo <b>CIRCULO</b> empieza la partida.
+Para cada equipo se debe generar una estructura que sirva para mantener el puntaje obtenido por cada jugador en las jugadas.
 
 <b>De los equipos:<br>
 ● Id Jugador: número entero de 3 cifras<br>
