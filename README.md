@@ -5,7 +5,7 @@ equipos.
 Para cada equipo se debe generar una estructura que sirva para
 mantener el puntaje obtenido por cada jugador en las jugadas.
 
-De los equipos:<b>
+<b>De los equipos:<br>
 ● Id Jugador: número entero de 3 cifras<br>
 ● Nombre o Apodo del Jugador: no debe ser vacío<br>
 ● Puntaje Total: número entero mayor o igual a 0<br>
