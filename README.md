@@ -1,5 +1,5 @@
 # 🕹️​👾​ <b>Juego TATETI</b> 🕹️​👾​
-Descripción del Juego TA-TE-TI en equipos
+Descripción del Juego <b>TA-TE-TI</b> en equipos
 El juego comienza cargando los nombres de los jugadores de 2
 equipos.
 Luego se lanza un dado para determinar si el equipo <b>CRUZ</b> o el equipo <b>CIRCULO</b> empieza la partida.
